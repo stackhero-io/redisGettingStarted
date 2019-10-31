@@ -1,0 +1,13 @@
+{
+  "name": "redis-getting-started",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node gettingStarted.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ioredis": "^4.14.1"
+  }
+}
